@@ -1,0 +1,12 @@
+Source: ros-iron-aws-sdk-cpp-vendor
+Section: misc
+Priority: optional
+Maintainer: Daisuke Nishimatsu <daisuke.nishimatsu1021@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), curl, libcurl4-openssl-dev, libssl-dev, ros-iron-ament-cmake, ros-iron-ament-cmake-vendor-package, ros-iron-ament-lint-auto <!nocheck>, ros-iron-ament-lint-common <!nocheck>, zlib1g-dev, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-aws-sdk-cpp-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libssl-dev, zlib1g-dev, ros-iron-ros-workspace
+Description: A vendor package for aws-sdk-cpp
