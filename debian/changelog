@@ -1,0 +1,23 @@
+ros-iron-aws-sdk-cpp-vendor (0.2.0-1bullseye) bullseye; urgency=high
+
+  * feat: update sdk version and cmake options
+  * Contributors: wep21
+
+ -- Daisuke Nishimatsu <daisuke.nishimatsu1021@gmail.com>  Mon, 25 Sep 2023 15:00:00 -0000
+
+ros-iron-aws-sdk-cpp-vendor (0.1.1-1bullseye) bullseye; urgency=high
+
+  * fix: add missing dependency
+  * Contributors: wep21
+
+ -- Daisuke Nishimatsu <daisuke.nishimatsu1021@gmail.com>  Sun, 13 Aug 2023 15:00:00 -0000
+
+ros-iron-aws-sdk-cpp-vendor (0.1.0-1bullseye) bullseye; urgency=high
+
+  * fix: add missing dependency
+  * feat: initial commit
+  * Contributors: wep21
+
+ -- Daisuke Nishimatsu <daisuke.nishimatsu1021@gmail.com>  Fri, 11 Aug 2023 15:00:00 -0000
+
+
