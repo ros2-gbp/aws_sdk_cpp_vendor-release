@@ -1,0 +1,12 @@
+Source: ros-lyrical-aws-sdk-cpp-vendor
+Section: misc
+Priority: optional
+Maintainer: Daisuke Nishimatsu <daisuke.nishimatsu1021@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), curl, libcurl4-openssl-dev, libssl-dev, ros-lyrical-ament-cmake, ros-lyrical-ament-cmake-vendor-package, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, zlib1g-dev, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/aws_sdk_cpp_vendor/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-aws-sdk-cpp-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libssl-dev, zlib1g-dev, ros-lyrical-ros-workspace
+Description: A vendor package for aws-sdk-cpp
