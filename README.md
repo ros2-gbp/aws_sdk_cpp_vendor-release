@@ -1,3 +1,26 @@
+## aws_sdk_cpp_vendor (rolling) - 0.2.2-1
+
+The packages in the `aws_sdk_cpp_vendor` repository were released into the `rolling` distro by running `/Users/daisuke/.cache/uv/archive-v0/QrA6h4PvGYwyGjcB/bin/bloom-release -r rolling aws_sdk_cpp_vendor` on `Thu, 26 Nov 2026 02:50:27 -0000`
+
+The `aws_sdk_cpp_vendor` package was released.
+
+Version of package(s) in repository `aws_sdk_cpp_vendor`:
+
+- upstream repository: https://github.com/wep21/aws_sdk_cpp_vendor.git
+- release repository: https://github.com/ros2-gbp/aws_sdk_cpp_vendor-release.git
+- rosdistro version: `0.2.1-3`
+- old version: `0.2.1-3`
+- new version: `0.2.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## aws_sdk_cpp_vendor (humble) - 0.2.1-1
 
 The packages in the `aws_sdk_cpp_vendor` repository were released into the `humble` distro by running `/home/daisuke/.local/bin/bloom-release aws_sdk_cpp_vendor -r humble` on `Wed, 27 Sep 2023 15:56:14 -0000`
